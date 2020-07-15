@@ -1,4 +1,4 @@
-<img src="./images/skuull.gif" style="height: 45px; width: 45px; border-radius: 50%; float: right" />
+<img src="./images/skuull.gif" height="45" width="45" />
 
 ## Fr0nk3nst33n
 
