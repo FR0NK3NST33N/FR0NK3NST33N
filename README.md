@@ -1,4 +1,4 @@
-<img src="./images/skuull.gif" height="45" width="45" />
+<img src="https://github.com/FR0NK3NST33N/FR0NK3NST33N/raw/production/images/skuull.gif" height="45" width="45" />
 
 ## Fr0nk3nst33n
 
