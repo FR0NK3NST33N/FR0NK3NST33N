@@ -2,7 +2,6 @@
 
 ## Fr0nk3nst33n
 
-<hr />
 👋 Hello, friend!
 
 - 🏢 Currently working @SSB
