@@ -1,9 +1,7 @@
-<img src="https://github.com/FR0NK3NST33N/FR0NK3NST33N/raw/production/images/skuull.gif" height="45" width="45" style="float:right" />
-
 ## Fr0nk3nst33n
 
 👋 Hello, friend!
 
 - 🏢 Currently working @SSB
 - 🤔 Trying to learn Golang
-- 🐦 @fr0nk3nst33n
+- 🐦 [@fr0nk3nst33n](https://twitter.com/fr0nk3nst33n)
