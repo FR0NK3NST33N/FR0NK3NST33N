@@ -2,6 +2,6 @@
 
 👋 Hello, friend!
 
-- 🏢 Currently working @Unanet
+- 🏢 Currently working at [IGN](https://www.ign.com)
 - 🤔 Trying to learn Golang
 - 🐦 [@fr0nk3nst33n](https://twitter.com/fr0nk3nst33n)
